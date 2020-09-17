@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBolinger_Lab4", "eBolinger_Lab4\eBolinger_Lab4.csproj", "{A42C8CE3-19CD-4B40-A2CD-E2EEA36018A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBolinger_Lab4Part2", "eBolinger_Lab4Part2\eBolinger_Lab4Part2.csproj", "{2D3C29DB-4E40-474E-B460-A43887A4A236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42C8CE3-19CD-4B40-A2CD-E2EEA36018A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42C8CE3-19CD-4B40-A2CD-E2EEA36018A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42C8CE3-19CD-4B40-A2CD-E2EEA36018A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42C8CE3-19CD-4B40-A2CD-E2EEA36018A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3C29DB-4E40-474E-B460-A43887A4A236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3C29DB-4E40-474E-B460-A43887A4A236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3C29DB-4E40-474E-B460-A43887A4A236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3C29DB-4E40-474E-B460-A43887A4A236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FB4D2F0-29D3-4360-BB5B-7859243DA8B6}
+	EndGlobalSection
+EndGlobal
